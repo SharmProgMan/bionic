@@ -1,0 +1,6 @@
+#! /bin/bash
+
+mkdir -p /tmp/bionic
+mkdir -p /tmp/bionic/downloads
+tp="/tmp/bionic"
+tds="/tmp/bionic/downloads"
